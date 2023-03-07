@@ -2,7 +2,7 @@ body {
   overflow: auto;
   font-family: PoppinsLight !important;
   font-size: 14px !important;
-  grid-template-columns: 200px repeat(auto-fill);
+ 
 }
 
 @font-face {
