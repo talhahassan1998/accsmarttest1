@@ -29,6 +29,7 @@ body {
 
 .mainn-container {
   width: 830px;
+  height:100vh;
 }
 
 .top-menu-legends {
