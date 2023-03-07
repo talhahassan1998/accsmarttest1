@@ -1,8 +1,8 @@
 body {
-  overflow:hidden;
+  overflow:auto;
   font-family: PoppinsLight !important;
   font-size: 14px !important;
- height:auto;
+ height:calc(100% - 20px);
 }
 
 @font-face {
